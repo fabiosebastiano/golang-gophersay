@@ -2,7 +2,7 @@
   <h3 align="center">GopherSay</h3>
   <p align="center">
     <a href="https://github.com/fabiosebastiano/golang-gophersay/releases/latest"><img alt="GitHub release" src="https://img.shields.io/github/v/release/fabiosebastiano/golang-gophersay.svg?logo=github&style=flat-square"></a>
-    <a href="https://goreportcard.com/report/github.com/scraly/gophersay"><img src="https://goreportcard.com/badge/github.com/scraly/gophersay" alt="Code Status" /></a>
+    <a href="https://goreportcard.com/report/github.com/fabiosebastiano/golang-gophersay"><img src="https://goreportcard.com/badge/github.com/fabiosebastiano/golang-gophersay" alt="Code Status" /></a>
   </p>
 </p>
 
