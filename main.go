@@ -49,6 +49,7 @@ func main() {
 			log.Fatal("Error during read gopher ascii file", err)
 		}
 		fmt.Println(string(fileData))
+
 	}
 }
 
